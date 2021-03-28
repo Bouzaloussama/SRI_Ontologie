@@ -18,7 +18,7 @@ html5lib==1.1
 idna==2.10
 importlib-metadata==3.7.0
 ipykernel==5.5.0
-ipython==7.21.0
+ipython
 ipython-genutils==0.2.0
 ipywidgets==7.6.3
 isodate==0.6.0
