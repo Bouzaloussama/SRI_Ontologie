@@ -27,7 +27,7 @@ SECRET_KEY = 'bov(l2l8lx15pxxwz^h)+7+ywn4+(rvp%*bhmqrwx81^2tg@k@'
 #DEBUG = True
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','sri-ontologie-domain-travel.herokuapp.com']
 
 
 # Application definition
