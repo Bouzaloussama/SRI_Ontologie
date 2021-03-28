@@ -1,0 +1,10 @@
+.mbody {
+  position: absolute;
+width: 1920px;
+height: 1080px;
+
+background: #253047;
+}
+.size{
+  width: 60%;
+}
